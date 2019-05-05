@@ -3,17 +3,37 @@
 Copyright ©️ 2019 Douglas Wade Goodall. All Rights Reserved.
 
 
+## Cloud Vendors
+
+### Amazon
+
+### Microsoft
+
+### Google
+
+### IBM
+
 ## SCM
 
-### Git
+### Local
 
-- GitHub
+- Git
 
 - GitHubDesk
 
-### Svn
+- Subversion
 
-## 
+### Remote
+
+- GitHub
+
+- BitBucket
+
+## Education
+
+### Udemy
+
+### 
 
 ## DevOps
 
@@ -31,6 +51,16 @@ Copyright ©️ 2019 Douglas Wade Goodall. All Rights Reserved.
 
 ### Policy as Code
 
+## Instance Vendors
+
+### Chunkhost
+
+## Devo Platforms
+
+### Mac
+
+### PC
+
 ## Tools
 
 ### Jenkins
@@ -44,4 +74,22 @@ Https://jenkins.io
 ### Docker
 
 ### Ansible
+
+## Licensed Software
+
+### Wing IDE Pro
+
+[Https://wingware](Https://wingware).com
+
+### VMware Fusion
+
+Https://vmware.com
+
+### PyCharm Pro
+
+[Https://jetbrains](Https://jetbrains).com
+
+### VirtualBox
+
+[Https://oracle](Https://oracle).com
 
