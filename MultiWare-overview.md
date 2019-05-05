@@ -7,11 +7,28 @@ Copyright ©️ 2019 Douglas Wade Goodall. All Rights Reserved.
 
 ### Amazon
 
+Https://aws.amazon.com  
+
+
 ### Microsoft
+
+[Https://microsoft.com](Https://microsoft.com)
+
 
 ### Google
 
+[Https://google.com](Https://google.com)
+
+
 ### IBM
+
+[Https://ibm.com](Https://ibm.com)
+
+
+### Oracle Cloud
+
+Oracle offers a 30-day free account w/$300 credit to use for evaluation. After 30-days you must convert to paid as you go account.  
+
 
 ## SCM
 
@@ -19,19 +36,34 @@ Copyright ©️ 2019 Douglas Wade Goodall. All Rights Reserved.
 
 - Git
 
+	[Https://git-scm.com](Https://git-scm.com)
+	
+
 - GitHubDesk
 
 - Subversion
+
+	[Https://subversion.org](Https://subversion.org)
+	
 
 ### Remote
 
 - GitHub
 
+	[Https://github.com](Https://github.com)
+	
+
 - BitBucket
+
+	[Https://bitbucket.com](Https://bitbucket.com)
+	
 
 ## Education
 
 ### Udemy
+
+[Https://udemy.com](Https://udemy.com)
+
 
 ### 
 
@@ -55,9 +87,15 @@ Copyright ©️ 2019 Douglas Wade Goodall. All Rights Reserved.
 
 ### Chunkhost
 
+[Https://chunkhost.com](Https://chunkhost.com)
+
+
 ## Devo Platforms
 
 ### Mac
+
+[Https://apple.com](Https://apple.com)
+
 
 ### PC
 
@@ -69,11 +107,23 @@ Https://jenkins.io
 
 ### Harness
 
+[Https://harness.io](Https://harness.io)
+
+
 ### GoCD
+
+[Https://gocd.org](Https://gocd.org)
+
 
 ### Docker
 
+[Https://docker.com](Https://docker.com)
+
+
 ### Ansible
+
+[Https://ansible.com](Https://ansible.com)
+
 
 ## Licensed Software
 
@@ -84,12 +134,14 @@ Https://jenkins.io
 
 ### VMware Fusion
 
-[Https://vmware.com](Https://vmware.com)
+[https://www.vmware.com/products/fusion.html](https://www.vmware.com/products/fusion.html)
+
 
 
 ### PyCharm Pro
 
-[Https://jetbrains.com](Https://jetbrains.com)
+[https://www.jetbrains.com/pycharm/](https://www.jetbrains.com/pycharm/)
+
 
 
 ### VirtualBox
