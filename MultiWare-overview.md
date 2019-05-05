@@ -1,5 +1,7 @@
 # MultiWare
 
+Copyright ©️ 2019 Douglas Wade Goodall. All Rights Reserved.
+
 
 ## SCM
 
