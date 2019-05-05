@@ -79,17 +79,21 @@ Https://jenkins.io
 
 ### Wing IDE Pro
 
-[Https://wingware](Https://wingware).com
+[Https://wingware.com](Https://wingware.com)
+
 
 ### VMware Fusion
 
-Https://vmware.com
+[Https://vmware.com](Https://vmware.com)
+
 
 ### PyCharm Pro
 
-[Https://jetbrains](Https://jetbrains).com
+[Https://jetbrains.com](Https://jetbrains.com)
+
 
 ### VirtualBox
 
-[Https://oracle](Https://oracle).com
+[Https://oracle.com](Https://oracle.com)
+
 
