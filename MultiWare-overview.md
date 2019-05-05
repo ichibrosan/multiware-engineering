@@ -5,22 +5,24 @@ Copyright ©️ 2019 Douglas Wade Goodall. All Rights Reserved.
 
 ## Cloud Vendors
 
-### Amazon
+### Amazon AWS
 
 Https://aws.amazon.com  
+  
+Amazon provides a free tier account for a period of one year to evaluation users.  
 
 
-### Microsoft
+### Microsoft Azure
 
 [Https://microsoft.com](Https://microsoft.com)
 
 
-### Google
+### Google GCP & Anthos
 
 [Https://google.com](Https://google.com)
 
 
-### IBM
+### IBM Cloud
 
 [Https://ibm.com](Https://ibm.com)
 
@@ -148,4 +150,12 @@ Https://jenkins.io
 
 [Https://oracle.com](Https://oracle.com)
 
+
+## Open Source Languages
+
+### Python
+
+### C/C++
+
+### Java
 
